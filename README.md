@@ -1,1 +1,1 @@
-# .github
+# http://cogtail.app
